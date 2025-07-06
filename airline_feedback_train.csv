@@ -1,0 +1,301 @@
+id,review_text,sentiment
+T204,Cabin crew were inattentive to passenger concerns and requests.,negative
+T267,Staff demonstrated sarcasm and unwillingness to assist.,negative
+T153,Nothing particularly remarkable; the journey was adequately comfortable.,neutral
+T010,Stable and fast in-flight Wi-Fi enhanced the travel experience.,positive
+T234,Diversion of flight was poorly managed and unclear.,negative
+T227,Repeated call button alerts went unanswered.,negative
+T197,Window seat provided limited visibility due to fog.,neutral
+T110,Staff interactions were minimal and polite.,neutral
+T006,A broad selection of in-flight entertainment was available.,positive
+T176,Service delivery pace was average.,neutral
+T238,Meal trays were left uncleared for an extended period.,negative
+T058,A broad selection of in-flight entertainment was available.,positive
+T219,Crying child was not attended to by the crew.,negative
+T046,Baggage was delivered promptly and without damage.,positive
+T183,Entertainment options appeared outdated.,neutral
+T222,Personal belongings such as a stroller were lost.,negative
+T290,Meal trays were left uncleared for an extended period.,negative
+T212,Missed connecting flight due to uncommunicated delays.,negative
+T149,Restroom queues were extended mid-flight.,neutral
+T166,Cabin temperature was slightly warmer than preferred.,neutral
+T079,Boarding announcements were professional and clearly articulated.,positive
+T114,Boarding was structured but moved slowly.,neutral
+T250,Extra legroom seat turned out to be misleadingly marketed.,negative
+T251,Blankets were not provided despite cold night conditions.,negative
+T105,"No entertainment was available, which was expected for a short flight.",neutral
+T043,The airline app provided timely and helpful notifications.,positive
+T282,Seatbelt mechanism was faulty and posed a safety risk.,negative
+T296,Cabin crew spilled a drink without issuing an apology.,negative
+T158,Seats provided standard comfort levels with no standout features.,neutral
+T239,Neighboring passenger’s constant coughing was disturbing.,negative
+T018,The captain communicated clearly and kept passengers well-informed.,positive
+T165,Boarding was structured but moved slowly.,neutral
+T034,Cabin crew maintained attentive care throughout the flight.,positive
+T025,Seats reclined comfortably without disturbing fellow passengers.,positive
+T216,Family members were assigned non-adjacent seats.,negative
+T120,Minor delay occurred but had limited impact.,neutral
+T008,Cabin crew provided outstanding assistance throughout the journey.,positive
+T091,Access to the airport lounge was a valuable perk.,positive
+T047,A complimentary welcome drink enhanced the initial experience.,positive
+T074,Mobile check-in was convenient and expedited the process.,positive
+T094,USB ports for charging were available at each seat.,positive
+T077,Seats reclined comfortably without disturbing fellow passengers.,positive
+T287,Customer support via phone was unhelpful and rude.,negative
+T061,Restrooms remained clean and hygienic during the entire flight.,positive
+T078,Cabin lighting created a calm and relaxing atmosphere.,positive
+T064,Baggage claim was efficient and hassle-free.,positive
+T235,Customer support via phone was unhelpful and rude.,negative
+T230,Seatbelt mechanism was faulty and posed a safety risk.,negative
+T112,Flight duration felt manageable and passed quickly.,neutral
+T232,Incorrect boarding passes caused unnecessary confusion.,negative
+T181,Cabin lighting was brighter than necessary at times.,neutral
+T145,The airline mobile app malfunctioned during check-in.,neutral
+T240,Window shade was damaged and unadjustable.,negative
+T076,The airline accommodated dietary preferences thoughtfully.,positive
+T298,Wi-Fi service failed after purchase with no refund option.,negative
+T279,Repeated call button alerts went unanswered.,negative
+T098,Baggage was delivered promptly and without damage.,positive
+T093,In-flight reading material was thoughtfully curated and engaging.,positive
+T193,Only one round of water service was conducted.,neutral
+T026,Cabin lighting created a calm and relaxing atmosphere.,positive
+T233,Hidden charges for baggage caused inconvenience.,negative
+T060,Cabin crew provided outstanding assistance throughout the journey.,positive
+T007,Boarding was efficient and executed in an orderly manner.,positive
+T186,Disposable cutlery was used during meals.,neutral
+T174,Crew responded when approached for assistance.,neutral
+T031,Flight reached the destination ahead of the scheduled time.,positive
+T023,Children were provided with engaging onboard activities.,positive
+T257,"Meals served were cold, poorly presented, and lacked taste.",negative
+T057,"Flight attendants were polite, cheerful, and highly professional.",positive
+T187,Delayed gate pushback was offset by fast taxiing.,neutral
+T109,Flight departed and landed on time with no disruptions.,neutral
+T127,The fare aligned with the overall experience delivered.,neutral
+T231,"Turbulence was intense, with no calming reassurances.",negative
+T194,Requested a blanket twice before it was provided.,neutral
+T130,Cabin lighting was brighter than necessary at times.,neutral
+T283,"Turbulence was intense, with no calming reassurances.",negative
+T083,Flight reached the destination ahead of the scheduled time.,positive
+T085,Ground staff were efficient and welcoming.,positive
+T067,Business class amenities provided a serene and luxurious experience.,positive
+T289,TV monitor had visual but no audio functionality.,negative
+T164,No particular element stood out during the journey.,neutral
+T155,Check-in took longer than anticipated due to limited counters.,neutral
+T020,Amenities such as clean blankets and pillows enhanced comfort.,positive
+T125,Service delivery pace was average.,neutral
+T080,Staff assistance for passengers with special needs was exemplary.,positive
+T115,Cabin temperature was slightly warmer than preferred.,neutral
+T119,Security protocols were routine and standard.,neutral
+T073,Safety instructions were delivered effectively and attentively.,positive
+T016,Flight attendants were consistently responsive and approachable.,positive
+T011,Landing was exceptionally smooth and expertly managed.,positive
+T195,Announcements were overly loud at times.,neutral
+T102,Nothing particularly remarkable; the journey was adequately comfortable.,neutral
+T069,Complimentary beverages were appreciated and served promptly.,positive
+T225,Meal service skipped our row without explanation.,negative
+T038,"Layovers were well-timed, ensuring smooth connections.",positive
+T017,Complimentary beverages were appreciated and served promptly.,positive
+T180,Overhead storage was adequate but required effort to manage.,neutral
+T148,Crew skipped basic safety checks during turbulence.,neutral
+T275,"Flight was overbooked, resulting in passenger removal.",negative
+T068,Flight attendants were consistently responsive and approachable.,positive
+T229,Professional commitments were missed due to long delays.,negative
+T070,The captain communicated clearly and kept passengers well-informed.,positive
+T032,Zone-wise boarding process ensured smooth transitions.,positive
+T184,Departure lounge was crowded and noisy.,neutral
+T266,Flight cancellation was abrupt and lacked adequate support.,negative
+T226,Cabin cleanliness was below acceptable standards.,negative
+T141,Air circulation was passable but not ideal.,neutral
+T019,Legroom in economy class was surprisingly generous.,positive
+T182,Temperature control could have been better regulated.,neutral
+T097,Disembarkation was smooth and efficiently managed.,positive
+T133,Departure lounge was crowded and noisy.,neutral
+T263,"Legroom was severely limited, making the journey uncomfortable.",negative
+T087,Tray tables and seating areas were spotless and ready for use.,positive
+T249,Cabin baggage was denied entry despite visible space.,negative
+T246,Wi-Fi service failed after purchase with no refund option.,negative
+T117,Mild turbulence was encountered but well-handled.,neutral
+T147,Limited product range in the onboard shopping catalog.,neutral
+T293,Onboard snacks were overpriced and of low quality.,negative
+T198,Limited product range in the onboard shopping catalog.,neutral
+T207,Checked-in luggage was mishandled and not returned.,negative
+T056,The in-flight meal exceeded expectations in both taste and quality.,positive
+T173,Snacks were limited in quantity but sufficient.,neutral
+T185,Nothing significantly positive or negative occurred.,neutral
+T168,Mild turbulence was encountered but well-handled.,neutral
+T140,Seat back was overly upright and slightly uncomfortable.,neutral
+T254,Ground staff displayed unprofessional and discourteous behavior.,negative
+T039,Access to the airport lounge was a valuable perk.,positive
+T126,Tray table had minor cleanliness issues.,neutral
+T196,The airline mobile app malfunctioned during check-in.,neutral
+T284,Incorrect boarding passes caused unnecessary confusion.,negative
+T138,Only paid meal options were available onboard.,neutral
+T113,No particular element stood out during the journey.,neutral
+T169,Announcements were made but lacked clarity in parts.,neutral
+T118,Announcements were made but lacked clarity in parts.,neutral
+T278,Cabin cleanliness was below acceptable standards.,negative
+T272,Captain failed to address passengers during turbulence.,negative
+T156,"No entertainment was available, which was expected for a short flight.",neutral
+T177,Tray table had minor cleanliness issues.,neutral
+T179,Flight adhered closely to its scheduled timeline.,neutral
+T003,Check-in and security procedures were swift and well-organized.,positive
+T116,Passenger noise levels slightly affected the comfort.,neutral
+T144,Announcements were overly loud at times.,neutral
+T178,The fare aligned with the overall experience delivered.,neutral
+T121,Middle seat offered just enough space to sit comfortably.,neutral
+T211,"Legroom was severely limited, making the journey uncomfortable.",negative
+T261,Crew addressed passengers in an unprofessional tone.,negative
+T128,Flight adhered closely to its scheduled timeline.,neutral
+T075,Children were provided with engaging onboard activities.,positive
+T030,The pilot personally greeted passengers upon arrival.,positive
+T084,Zone-wise boarding process ensured smooth transitions.,positive
+T270,Unexpected seat selection fees were charged.,negative
+T108,Service met expectations but did not exceed them.,neutral
+T224,"Landing was abrupt, leading to discomfort.",negative
+T159,Service met expectations but did not exceed them.,neutral
+T281,Professional commitments were missed due to long delays.,negative
+T247,Vegetarian meal option was unavailable despite pre-request.,negative
+T223,"Flight was overbooked, resulting in passenger removal.",negative
+T066,"The aircraft was modern, immaculate, and well-maintained.",positive
+T199,Crew skipped basic safety checks during turbulence.,neutral
+T086,Cabin crew maintained attentive care throughout the flight.,positive
+T214,Flight cancellation was abrupt and lacked adequate support.,negative
+T160,Flight departed and landed on time with no disruptions.,neutral
+T013,The journey was turbulence-free and comfortable.,positive
+T036,Safety and hygiene measures such as masks were provided.,positive
+T029,An unexpected upgrade at the gate added to a pleasant journey.,positive
+T143,Requested a blanket twice before it was provided.,neutral
+T285,Hidden charges for baggage caused inconvenience.,negative
+T255,Seats were in poor condition and lacked basic cleanliness.,negative
+T171,Minor delay occurred but had limited impact.,neutral
+T052,Even economy class service was commendably high-quality.,positive
+T096,Multilingual staff ensured clarity for all passengers.,positive
+T209,Crew addressed passengers in an unprofessional tone.,negative
+T248,Luggage was returned damaged and with missing parts.,negative
+T042,USB ports for charging were available at each seat.,positive
+T090,"Layovers were well-timed, ensuring smooth connections.",positive
+T245,Children were not given water despite multiple requests.,negative
+T137,Cabin crew seemed fatigued during the later part of flight.,neutral
+T027,Boarding announcements were professional and clearly articulated.,positive
+T294,Delay announcements lacked transparency.,negative
+T142,Only one round of water service was conducted.,neutral
+T201,The flight was delayed for several hours without clear communication.,negative
+T001,The flight arrived ahead of schedule and was exceptionally smooth.,positive
+T269,Boarding process was chaotic and poorly supervised.,negative
+T273,An overhead compartment opened unexpectedly mid-flight.,negative
+T101,The overall flight experience was satisfactory and uneventful.,neutral
+T260,Personal entertainment system failed to function.,negative
+T256,Cabin crew were inattentive to passenger concerns and requests.,negative
+T172,Middle seat offered just enough space to sit comfortably.,neutral
+T099,A complimentary welcome drink enhanced the initial experience.,positive
+T037,"The ambiance was peaceful, with minimal noise disturbances.",positive
+T062,Stable and fast in-flight Wi-Fi enhanced the travel experience.,positive
+T151,Luggage was slightly delayed but arrived intact.,neutral
+T237,TV monitor had visual but no audio functionality.,negative
+T203,Seats were in poor condition and lacked basic cleanliness.,negative
+T243,Gate change was last-minute and not announced clearly.,negative
+T012,Baggage claim was efficient and hassle-free.,positive
+T297,Children were not given water despite multiple requests.,negative
+T268,Family members were assigned non-adjacent seats.,negative
+T028,Staff assistance for passengers with special needs was exemplary.,positive
+T220,Captain failed to address passengers during turbulence.,negative
+T005,"Flight attendants were polite, cheerful, and highly professional.",positive
+T123,Crew responded when approached for assistance.,neutral
+T033,Ground staff were efficient and welcoming.,positive
+T205,"Meals served were cold, poorly presented, and lacked taste.",negative
+T163,Flight duration felt manageable and passed quickly.,neutral
+T210,Water requests were repeatedly ignored during the flight.,negative
+T286,Diversion of flight was poorly managed and unclear.,negative
+T139,Some delay was experienced in accessing the jet bridge.,neutral
+T063,Landing was exceptionally smooth and expertly managed.,positive
+T136,Delayed gate pushback was offset by fast taxiing.,neutral
+T129,Overhead storage was adequate but required effort to manage.,neutral
+T291,Neighboring passenger’s constant coughing was disturbing.,negative
+T009,Restrooms remained clean and hygienic during the entire flight.,positive
+T071,Legroom in economy class was surprisingly generous.,positive
+T265,"Air conditioning was inconsistent, causing discomfort.",negative
+T065,The journey was turbulence-free and comfortable.,positive
+T045,Disembarkation was smooth and efficiently managed.,positive
+T280,Seat recline function was broken and unusable.,negative
+T157,"Meal service was basic, with no notable highlights.",neutral
+T041,In-flight reading material was thoughtfully curated and engaging.,positive
+T124,No power outlets were available for device charging.,neutral
+T276,"Landing was abrupt, leading to discomfort.",negative
+T217,Boarding process was chaotic and poorly supervised.,negative
+T154,The crew performed their duties without significant engagement.,neutral
+T024,The airline accommodated dietary preferences thoughtfully.,positive
+T262,Water requests were repeatedly ignored during the flight.,negative
+T111,The service offered was aligned with the ticket price.,neutral
+T082,The pilot personally greeted passengers upon arrival.,positive
+T208,Personal entertainment system failed to function.,negative
+T213,"Air conditioning was inconsistent, causing discomfort.",negative
+T040,"Flight crew acknowledged my birthday, which was a lovely gesture.",positive
+T241,Onboard snacks were overpriced and of low quality.,negative
+T292,Window shade was damaged and unadjustable.,negative
+T259,Checked-in luggage was mishandled and not returned.,negative
+T200,Restroom queues were extended mid-flight.,neutral
+T015,Business class amenities provided a serene and luxurious experience.,positive
+T048,The captain provided timely updates on route and weather.,positive
+T095,The airline app provided timely and helpful notifications.,positive
+T264,Missed connecting flight due to uncommunicated delays.,negative
+T228,Seat recline function was broken and unusable.,negative
+T274,Personal belongings such as a stroller were lost.,negative
+T202,Ground staff displayed unprofessional and discourteous behavior.,negative
+T162,The service offered was aligned with the ticket price.,neutral
+T044,Multilingual staff ensured clarity for all passengers.,positive
+T218,Unexpected seat selection fees were charged.,negative
+T146,Window seat provided limited visibility due to fog.,neutral
+T191,Seat back was overly upright and slightly uncomfortable.,neutral
+T221,An overhead compartment opened unexpectedly mid-flight.,negative
+T252,Persistent restroom odor made the journey unpleasant.,negative
+T004,The in-flight meal exceeded expectations in both taste and quality.,positive
+T106,"Meal service was basic, with no notable highlights.",neutral
+T054,"Seats offered great comfort, and the cabin crew was highly courteous.",positive
+T134,Nothing significantly positive or negative occurred.,neutral
+T002,"Seats offered great comfort, and the cabin crew was highly courteous.",positive
+T132,Entertainment options appeared outdated.,neutral
+T104,Check-in took longer than anticipated due to limited counters.,neutral
+T050,Crew members were helpful in assisting with seating arrangements.,positive
+T081,An unexpected upgrade at the gate added to a pleasant journey.,positive
+T206,Restroom facilities were unsanitary and unmaintained.,negative
+T035,Tray tables and seating areas were spotless and ready for use.,positive
+T092,"Flight crew acknowledged my birthday, which was a lovely gesture.",positive
+T053,The flight arrived ahead of schedule and was exceptionally smooth.,positive
+T242,Delay announcements lacked transparency.,negative
+T014,"The aircraft was modern, immaculate, and well-maintained.",positive
+T089,"The ambiance was peaceful, with minimal noise disturbances.",positive
+T167,Passenger noise levels slightly affected the comfort.,neutral
+T295,Gate change was last-minute and not announced clearly.,negative
+T135,Disposable cutlery was used during meals.,neutral
+T288,Excessively long queues at check-in lacked ventilation.,negative
+T244,Cabin crew spilled a drink without issuing an apology.,negative
+T055,Check-in and security procedures were swift and well-organized.,positive
+T051,The overall boarding and takeoff process was seamless.,positive
+T175,No power outlets were available for device charging.,neutral
+T190,Some delay was experienced in accessing the jet bridge.,neutral
+T299,Vegetarian meal option was unavailable despite pre-request.,negative
+T188,Cabin crew seemed fatigued during the later part of flight.,neutral
+T170,Security protocols were routine and standard.,neutral
+T059,Boarding was efficient and executed in an orderly manner.,positive
+T049,A strong sense of safety was maintained throughout the trip.,positive
+T236,Excessively long queues at check-in lacked ventilation.,negative
+T253,The flight was delayed for several hours without clear communication.,negative
+T022,Mobile check-in was convenient and expedited the process.,positive
+T161,Staff interactions were minimal and polite.,neutral
+T277,Meal service skipped our row without explanation.,negative
+T192,Air circulation was passable but not ideal.,neutral
+T258,Restroom facilities were unsanitary and unmaintained.,negative
+T150,Tray table functionality was impaired but usable.,neutral
+T131,Temperature control could have been better regulated.,neutral
+T152,The overall flight experience was satisfactory and uneventful.,neutral
+T100,The captain provided timely updates on route and weather.,positive
+T088,Safety and hygiene measures such as masks were provided.,positive
+T215,Staff demonstrated sarcasm and unwillingness to assist.,negative
+T122,Snacks were limited in quantity but sufficient.,neutral
+T300,Luggage was returned damaged and with missing parts.,negative
+T021,Safety instructions were delivered effectively and attentively.,positive
+T189,Only paid meal options were available onboard.,neutral
+T072,Amenities such as clean blankets and pillows enhanced comfort.,positive
+T107,Seats provided standard comfort levels with no standout features.,neutral
+T271,Crying child was not attended to by the crew.,negative
+T103,The crew performed their duties without significant engagement.,neutral
