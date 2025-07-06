@@ -16,9 +16,9 @@ Positive, Neutral, or Negative, using few-shot prompt-based learning.
 FLAN-UL2 from IBM watsonx.ai
 
 ## How to Use
-1.Upload your CSV files (airline_feedback_train.csv and airline_feedback_test.csv) to an IBM Cloud Object Storage bucket.
+1. Upload your CSV files (airline_feedback_train.csv and airline_feedback_test.csv) to an IBM Cloud Object Storage bucket.
 
-2.Provide your IBM Cloud:
+2. Provide your IBM Cloud:
 
   - API key
          
@@ -26,4 +26,4 @@ FLAN-UL2 from IBM watsonx.ai
          
   - Bucket name
          
-3.Run the notebook in [watsonx.ai](https://dataplatform.cloud.ibm.com) to classify airline passenger feedback as positive, neutral, or negative using the few-shot prompt and display predictions.
+3. Run the notebook in [watsonx.ai](https://dataplatform.cloud.ibm.com) to classify airline passenger feedback as positive, neutral, or negative using the few-shot prompt and display predictions.
